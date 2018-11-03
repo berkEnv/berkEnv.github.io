@@ -28,6 +28,7 @@ nav {
   background-repeat: no-repeat;
   background-color: rgba(0,0,0,0.15);
   height: 100%;
+  max-width: 100%;
 }
 
 #jumbotronHome {
@@ -80,7 +81,7 @@ nav {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-
+  max-width: 100%;
 }
 
 
